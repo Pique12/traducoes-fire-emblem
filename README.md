@@ -12,7 +12,7 @@ Traduções para português (Brasil) de jogos da franquia **Fire Emblem**, feita
 | GBA | Fire Emblem: The Binding Blade (FE6) | ✅ Completa | [Baixar](Fire%20emblem%20Binding%20Blade%20ptbr.rar) |
 | GBA | Fire Emblem: The Blazing Blade (FE7) | ✅ Completa | [Baixar](Tradu%C3%A7ao%20blazing%20blade.rar) |
 | GBA | Fire Emblem: The Sacred Stones (FE8) | ✅ Completa | [Baixar](Fire%20Emblem%20-%20The%20Sacred%20Stones%20PT-BR.rar) |
-| GameCube | Fire Emblem: Path of Radiance (FE9) | 🚧 Em andamento | — |
+| GameCube | Fire Emblem: Path of Radiance (FE9) | ✅ Completa | [Baixar](https://github.com/Pique12/traducoes-fire-emblem/releases) |
 
 ## ROMs necessárias
 
